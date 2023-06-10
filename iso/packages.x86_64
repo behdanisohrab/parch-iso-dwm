@@ -7,7 +7,7 @@ base
 base-devel
 bind
 brltty
-broadcom-wl
+broadcom-wl-dkms
 btrfs-progs
 clonezilla
 cloud-init
@@ -94,7 +94,6 @@ pv
 python
 python-psutil
 python-systemd
-qemu-guest-agent
 refind
 #reflector
 reiserfsprogs
@@ -136,6 +135,9 @@ zsh
 archlinux-keyring
 openssl-1.1
 openssl
+android-file-transfer
+gvfs-mtp
+udisks2
 
 #Desktop
 
@@ -143,9 +145,10 @@ openssl
 btop
 xdg-user-dirs
 packagekit-qt5
-neofetch
-keepassxc
-octopi-git
+neofetch-git
+ttf-ms-fonts
+parch-firefox-config
+
 
 
 #parchlinuxstuff
@@ -155,3 +158,7 @@ os-prober
 paru
 parch-branding
 parch-pacman
+parch-os-wallpapers
+parch-emoji-ios
+bash-completion
+irainian-fonts
