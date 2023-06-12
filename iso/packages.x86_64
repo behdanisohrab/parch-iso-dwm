@@ -149,7 +149,7 @@ network-manager-applet
 picom
 feh
 nitrogen
-imagemagic
+imagemagick
 hsetroot
 lxqt-policykit
 dunst
@@ -176,4 +176,4 @@ parch-pacman
 parch-os-wallpapers
 parch-emoji-ios
 bash-completion
-irainian-fonts
+iranian-fonts
