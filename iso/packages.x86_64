@@ -155,6 +155,13 @@ lxqt-policykit
 dunst
 parch-dwm-config
 pcmanfm
+awesome-terminal-fonts
+ttf-font-awesome
+hack-nerd-fonts
+papirus-icon-theme
+arc-gtk-theme
+lxappearance
+maim
 
 #systemutils
 btop
