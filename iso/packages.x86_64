@@ -29,7 +29,6 @@ ethtool
 exfatprogs
 f2fs-tools
 fatresize
-falkon
 fsarchiver
 git
 gnu-netcat
@@ -80,7 +79,6 @@ nmap
 ntfs-3g
 nvme-cli
 open-iscsi
-open-vm-tools
 openconnect
 openssh
 openvpn
@@ -138,8 +136,25 @@ openssl
 android-file-transfer
 gvfs-mtp
 udisks2
+networkmanager
+sddm
 
 #Desktop
+parch-dwm-dots
+dmscripts-git
+dmenu
+kitty
+volumeicon
+network-manager-applet
+picom
+feh
+nitrogen
+imagemagic
+hsetroot
+lxqt-policykit
+dunst
+parch-dwm-config
+pcmanfm
 
 #systemutils
 btop
