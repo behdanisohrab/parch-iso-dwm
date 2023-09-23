@@ -154,7 +154,7 @@ hsetroot
 lxqt-policykit
 dunst
 parch-dwm-config
-pcmanfm
+thunar
 awesome-terminal-fonts
 ttf-font-awesome
 hack-nerd-fonts
@@ -166,7 +166,8 @@ nordzy-cursors
 ranger
 atril
 mpv
-clementine
+parch-mpv
+amberol
 fira-code-mono
 fira-code-font
 
