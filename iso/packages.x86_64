@@ -120,6 +120,7 @@ vim
 virtualbox-guest-utils-nox
 vpnc
 which
+boost
 wireless-regdb
 wireless_tools
 wpa_supplicant
@@ -141,7 +142,6 @@ sddm
 
 #Desktop
 parch-dwm-dots
-dmscripts-git
 dmenu
 kitty
 volumeicon
@@ -176,7 +176,6 @@ btop
 xdg-user-dirs
 packagekit-qt5
 neofetch-git
-ttf-ms-fonts
 parch-firefox-config
 vazirmatn-fonts
 ttf-joypixels
@@ -184,7 +183,7 @@ parch-wm-calamares
 
 #parchlinuxstuff
 calamares
-parchlinux-cala-config
+calamares-parch
 os-prober
 paru
 parch-branding
@@ -193,3 +192,4 @@ parch-os-wallpapers
 parch-emoji-ios
 bash-completion
 iranian-fonts
+parch-grub
