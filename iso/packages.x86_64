@@ -167,16 +167,15 @@ ranger
 atril
 mpv
 parch-mpv
-amberol
 fira-code-mono
 fira-code-font
+boost
 
 #systemutils
 btop
 xdg-user-dirs
 packagekit-qt5
 neofetch-git
-parch-firefox-config
 vazirmatn-fonts
 ttf-joypixels
 parch-wm-calamares
@@ -188,7 +187,7 @@ os-prober
 paru
 parch-branding
 parch-pacman
-parch-os-wallpapers
+parch-wallpapers
 parch-emoji-ios
 bash-completion
 iranian-fonts
